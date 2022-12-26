@@ -1,0 +1,20 @@
+namespace: tdworz
+name: utilities
+version: 0.0.1
+description: Utilities for apt-based servers like Debian and Ubuntu.
+authors:
+  - Tom Dworzanski (tdworz) <tom@dworzanski.com>
+license:
+  - GPL-3.0-or-later
+readme: README.md
+repository: http://github.com/tdworz/ansible-collection-utilities
+documentation: https://github.com/tdworz/ansible-collection-utilities/wiki
+issues: https://github.com/tdworz/ansible-collection-utilities/issues
+dependencies: {}
+tags:
+  - utilities
+  - util
+  - upgrade
+  - debian
+  - ubuntu
+
